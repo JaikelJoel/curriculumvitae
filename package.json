@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/JaikelJoel/curriculumvitae#readme",
   "dependencies": {
+    "favicons-webpack-plugin": "0.0.9",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "styled-components": "^5.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
@@ -30,8 +32,8 @@
     "babel-loader": "^8.0.6",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"
   }
 }
